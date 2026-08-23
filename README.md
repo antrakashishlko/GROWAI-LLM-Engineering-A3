@@ -68,9 +68,11 @@ http://localhost:11434/api/generate
 
 5. Download the Models
 Pull the three benchmark models:
+```text
 ollama pull qwen3:0.6b
 ollama pull tinyllama
 ollama pull phi3:mini
+```
 
 7. Install Python Dependencies
 Open the project directory in a terminal and run:
