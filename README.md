@@ -45,9 +45,11 @@ pip install -r requirements.txt
 ```
 
 The following Ollama models are required:
+```text
 ollama pull qwen3:0.6b
 ollama pull tinyllama
 ollama pull phi3:mini
+```
 
 ## Setup/Installation
 
