@@ -112,6 +112,7 @@ The quality_rating field is manually evaluated after reviewing each generated re
 - `benchmark.py`– Main benchmarking script that communicates with the Ollama API, runs the prompts, measures latency, and collects results.
 - `benchmark_results.csv`– Complete benchmark dataset containing model responses, response times, and manual quality ratings.
 - `requirements.txt`– Python dependency required to run the benchmarking script.
+- `.gitignore`- Specifies files and folders that should be excluded from version control.
 
 ## Benchmark Results
 
