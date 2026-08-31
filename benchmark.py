@@ -21,7 +21,7 @@ models = [
 prompts = [
     "What is the capital of France?",
     (
-        "Classify the sentiment as positive, negative, or neutral: "
+        "Classify the sentiment as positive, negative or neutral: "
         "'I really enjoyed this movie and would watch it again.'"
     ),
     (
