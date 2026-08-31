@@ -1,6 +1,6 @@
 model,prompt,response,response_time_ms,quality_rating
 qwen3:0.6b,What is the capital of France?,The capital of France is **Paris**.,9265.11,5
-qwen3:0.6b,"Classify the sentiment as positive, negative, or neutral: 'I really enjoyed this movie and would watch it again.'",Positive.,3648.85,5
+qwen3:0.6b,"Classify the sentiment as positive, negative or neutral: 'I really enjoyed this movie and would watch it again.'",Positive.,3648.85,5
 qwen3:0.6b,A farmer has 10 apples. He gives 3 apples to his friend and buys 5 more. How many apples does he have now?,"The farmer starts with 10 apples. He gives 3 apples to his friend, which reduces his total to $10 - 3 = 7$ apples. Then, he buys 5 more apples. Adding these to his remaining 7 apples gives $7 + 5 = 12$ apples. 
 
 Thus, the farmer now has $\boxed{12}$ apples.",15165.83,5
