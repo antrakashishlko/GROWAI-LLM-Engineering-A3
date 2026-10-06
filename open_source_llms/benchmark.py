@@ -1,3 +1,10 @@
+"""
+Local LLM Benchmarker
+This project benchmarks three local Ollama models using the same five prompts.
+It measures response latency and stores each model's response for quality review.
+The results are saved to a CSV file so model speed and response quality can be compared.
+"""
+
 import csv
 import time
 import requests
